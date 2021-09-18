@@ -1,5 +1,5 @@
  First run makedata.py to construct the mask data set. Set the original data set path and the new data set path in this file
- In my Google cloud,you can get the dataset named CASIA-Webface_Disguised or VGG2_Disguised
+ Through my Google cloud link,you can get the dataset named CASIA-Webface_Disguised or VGG2_Disguised
  Then run build_triple to construct the load file of the ternary data set
  Next, run train.py for training
  Finally run the testmodel.py to obtain test results
