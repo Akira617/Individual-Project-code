@@ -1,5 +1,5 @@
-1.Unzip the fake or real file, you will find a file named SSM
+Unzip the fake or real file, you will find a file named SSM
 Put the FFHQ data set downloaded from the Google Cloud link under the root directory
-2.Click on SSM.py,You can see the training or test comments at the end of the file.and choose whether to train or directly test the model in main according to the comments.
-3.Run SSM.py
-3.The corresponding result will be obtained after running.
+Click on SSM.py,You can see the training or test comments at the end of the file.and choose whether to train or directly test the model in main according to the comments.
+Run SSM.py
+The corresponding result will be obtained after running.
