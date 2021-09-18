@@ -1,3 +1,4 @@
+ To use the dlib framework, you need to install vscode and cmake
  First run makedata.py to construct the mask data set. Set the original data set path and the new data set path in this file
  Through my Google cloud link,you can get the dataset named CASIA-Webface_Disguised or VGG2_Disguised
  Then run build_triple to construct the load file of the ternary data set
