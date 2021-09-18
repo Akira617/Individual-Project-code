@@ -1,0 +1,4 @@
+1. First run makedata to construct the mask data set. Set the original data set path and the new data set path in the program
+2. Then run build_triple to construct the load file of the ternary data set
+3. Next, run train for training
+4. Finally run the test test results
